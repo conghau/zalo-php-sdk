@@ -1,12 +1,12 @@
 {
-    "name": "zaloplatform/zalo-php-sdk",
-    "description": "sdk for zalo developers",
+    "name": "conghau/zalo-php-sdk",
+    "description": "conghau fork from zalo sdk",
     "keywords": ["zalosdk", "composer", "zalo", "sdk"],
     "license": "Zalo Platform",
     "authors": [
         {
-            "name": "zaloplatform",
-            "email": "zaloplatform@gmail.com"
+            "name": "conghau",
+            "email": "conghau.master1@gmail.com"
         }
     ],
     "type": "project",
